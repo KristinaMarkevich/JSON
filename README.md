@@ -27,7 +27,7 @@ $ git push
 ```
 **7. Отредактировать содержание файла “new.json” - написать информацию о себе**
 ```
-$ cat > new.xml
+$ cat > new.json
 {
 "Surname" : "Markevich",
 "Name" : "Kristina",
