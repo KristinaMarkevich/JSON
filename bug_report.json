@@ -1,12 +1,16 @@
- "ID":
-"Severity":
-"Priority":
-"Status":
-"Title":
-"Author":
-"Assigned To":
-"Environment":
-"Steps":
-"ER":
-"AR" :
-"Attachment":
+{
+"Bug-report": {
+"ID" : 111111,
+"Severity" : "Minor",
+"Priority" : "Low",
+"Status" : "Open",
+"Title" : "Не переведены на украинский язык тексты ошибок на форме “Зворотний зв’язок” на странице https://itawards.ua/ua в UA версии сайта",
+"Author ": "Kristina Markevich",
+"Environment" : "Google Chrome, Windows 8.1",
+"Steps" :    [ "1.Открыть страницу https://itawards.ua/ua",
+         "2.Проскролить к форме Зворотний зв’язок ",
+         "3.Нажать на кнопку Надіслати" ],
+"AR" : "Отображаются ошибки на английском языке",
+"ER" : "Отображаются ошибки на украинском языке",
+"Attachment" : "link" }
+}
