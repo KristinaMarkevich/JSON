@@ -73,7 +73,9 @@ $ cat > skills.json
 **12. Сделать коммит в одну строку**
 ```
 Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/github/JSON (main)
-$ git commit -a -m "add indo "
+$ git add .
+Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/github/JSON (main)
+$ git commit -m "add indo"
 ```
 **13. Отправить сразу 2 файла на внешний репозиторий**
 ```
