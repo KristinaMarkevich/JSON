@@ -10,13 +10,11 @@ Learning how to use GitHub
 ```
 Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/github
 $ git clone git@github.com:KristinaMarkevich/JSON.git
-
 ```
 **3.Внутри локального JSON создать файл “new.json”**
 ```
 Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/github/JSON (main)
 $ touch new.json
-
 ```
 **4.Добавить файл под гит**
 ```
@@ -54,7 +52,6 @@ $ git push
 ```
 **9. Создать файл preferences.json** 
 **10.  В файл preferences.json” добавить информацию о своих предпочтениях**
-
 ```
 Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/github/JSON (main)
 $ cat > preferences.json
@@ -77,7 +74,6 @@ $ cat > skills.json
 ```
 Kristina@DESKTOP-CPUR73B MINGW64 ~/desktop/github/JSON (main)
 $ git commit -a -m "add indo "
-
 ```
 **13. Отправить сразу 2 файла на внешний репозиторий**
 ```
