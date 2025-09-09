@@ -1,1 +1,12 @@
-
+{
+  "id" : 1,
+  "title" : " Button Log In is not clickable on the main page",
+  "Severity" : "Critical",
+  "Priority": "High",
+  "Steps to Reproduce" : "1. Open site.com
+                          2. Click the button Log in on the main page",
+  "Expected Result" : "Login Page is opened in the new page" ,
+  "Actual Result" : "Login page is not opened in the new page  ",
+  "Environment" : "Windows 10 x64, Google Chrome 184.1551",
+  "Attachment" : "Video"
+}
